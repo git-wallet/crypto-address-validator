@@ -1,0 +1,23 @@
+{
+  "name": "crypto-address-validator",
+  "version": "1.0.0",
+  "description": "Lightweight, zero-dependency format validation for crypto addresses across 14 networks.",
+  "type": "module",
+  "main": "index.js",
+  "exports": "./index.js",
+  "scripts": {
+    "example": "node example.js"
+  },
+  "keywords": [
+    "crypto",
+    "address",
+    "validation",
+    "bitcoin",
+    "ethereum",
+    "wallet",
+    "web3"
+  ],
+  "license": "MIT",
+  "author": "GitWallet",
+  "homepage": "https://gitwallet.net"
+}
